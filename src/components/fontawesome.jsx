@@ -1,0 +1,4 @@
+import { library } from "@fortawesome/fontawesome-svg-core"
+import { faBriefcase, faHouseChimney, faUser, faUserGroup, faUsers, faSackDollar, faHandshake, faPiggyBank, faHandHoldingDollar, faUserCheck, faUserXmark, faSliders, faRightFromBracket, faGear, faMoneyBillTransfer, faUserGear, faChartColumn, faDharmachakra, faFileLines, faCoins } from "@fortawesome/free-solid-svg-icons"
+
+library.add(faBriefcase, faHouseChimney, faUser, faUserGroup, faUsers, faSackDollar, faHandshake, faPiggyBank, faHandHoldingDollar, faUserCheck, faUserXmark, faSliders, faRightFromBracket, faGear, faMoneyBillTransfer, faUserGear, faChartColumn, faDharmachakra, faFileLines, faCoins );
