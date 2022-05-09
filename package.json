@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
+<<<<<<< HEAD
     "node": "17.6.0"
   },
   "homepage": ".",
+=======
+   "node": "17.6.0"
+   },
+>>>>>>> b4853a507fea659a0dc2869ef0ac4755423dea64
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-solid-svg-icons": "^6.1.1",
